@@ -11,7 +11,7 @@ This is a demo website showcasing some of the features of our web development sk
 
 ## Installation
 
-There's no need to install anything to view the website. Simply visit the website URL at [https://example.com](https://example.com).
+There's no need to install anything to view the website. Simply visit the website URL at [https://samsoneyc.github.io](https://samsoneyc.github.io).
 
 ## Usage
 
