@@ -31,4 +31,4 @@ We are not currently accepting contributions for this demo website.
 
 ## License
 
-This demo website is licensed under the [MIT License](LICENSE).
+This demo website is unlicensed.
